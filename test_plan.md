@@ -45,7 +45,6 @@ Use this test table to create your own test plan for your websites.
 | 38 | Content Hierarchy | All pages | Firefox | Clear visual hierarchy | | | Layout analysis | |
 | 39 | Link Hover States | All links | Chrome | Visual feedback on hover | | | Interaction test | |
 | 40 | Form Autocomplete | Registration form | Edge | Works with browser autofill | | | Autofill test | |
-| 42 | 404 Page | Invalid URL | Chrome | Custom 404 page shown | | | Error page test | |
 | 43 | Content Scrolling | Long pages | Mobile Firefox | Smooth scroll behavior | | | Scroll test video | |
 | 45 | Date Picker | Event forms | Chrome | Calendar works properly | | | Date input test | |
 | 47 | Table Responsiveness | Fees table | Mobile Chrome | Tables adapt to mobile | | | Mobile table test | |
