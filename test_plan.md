@@ -37,33 +37,19 @@ Use this test table to create your own test plan for your websites.
 | 21 | Image Alt Text | All images | Chrome | Alt text present and descriptive | | | Accessibility test | |
 | 22 | Color Contrast | All pages | Firefox | Meets WCAG standards | | | Contrast analyzer results | |
 | 23 | Form Error Messages | Invalid data | Edge | Clear error messages shown | | | Error message screenshots | |
-| 24 | Page Load Speed | Homepage | Chrome | Loads within 3 seconds | | | Performance metrics | |
-| 25 | SSL Certificate | All pages | Safari | Secure connection shown | | | Security indicator | |
 | 26 | Meta Tags | Page source | Chrome | SEO tags present | | | Source code review | |
 | 27 | Mobile Touch Targets | Nav buttons | Mobile Chrome | Easily tappable on mobile | | | Mobile usability test | |
 | 28 | Content Spelling | All text | Firefox | No spelling errors | | | Spell check results | |
 | 29 | Browser Back Button | Navigation | Edge | Works as expected | | | Navigation test video | |
-| 30 | Form Data Retention | Incomplete form | Chrome | Data preserved on navigation | | | Form state test | |
-| 31 | PDF Downloads | Resource links | Safari | PDFs open correctly | | | Download test | |
-| 32 | Email Links | Contact info | Firefox | Mail client opens | | | Email link test | |
-| 33 | Phone Number Links | Contact numbers | Mobile Chrome | Dialer opens on mobile | | | Mobile contact test | |
-| 34 | Address Links | Location info | Edge | Maps opens correctly | | | Location link test | |
 | 35 | Form Required Fields | Empty submission | Chrome | Proper validation shown | | | Validation test | |
-| 36 | Cross-browser Fonts | Typography | All browsers | Consistent font display | | | Font comparison | |
-| 37 | Image Resolution | All images | Retina display | Sharp on high-DPI screens | | | High-DPI screenshot | |
 | 38 | Content Hierarchy | All pages | Firefox | Clear visual hierarchy | | | Layout analysis | |
 | 39 | Link Hover States | All links | Chrome | Visual feedback on hover | | | Interaction test | |
 | 40 | Form Autocomplete | Registration form | Edge | Works with browser autofill | | | Autofill test | |
-| 41 | URL Structure | All pages | Safari | Clean, logical URLs | | | URL review | |
 | 42 | 404 Page | Invalid URL | Chrome | Custom 404 page shown | | | Error page test | |
 | 43 | Content Scrolling | Long pages | Mobile Firefox | Smooth scroll behavior | | | Scroll test video | |
-| 44 | Form Reset Button | All forms | Edge | Clears form correctly | | | Form reset test | |
 | 45 | Date Picker | Event forms | Chrome | Calendar works properly | | | Date input test | |
-| 46 | Print Stylesheet | All pages | Firefox | Prints formatted correctly | | | Print preview | |
 | 47 | Table Responsiveness | Fees table | Mobile Chrome | Tables adapt to mobile | | | Mobile table test | |
-| 48 | Image Loading | Slow connection | Edge | Progressive loading works | | | Loading test | |
 | 49 | Form Submission Feedback | All forms | Safari | Success/error messages clear | | | Feedback test | |
-| 50 | Language Selection | Header options | Chrome | Language toggle works | | | Language test | |
 
 ### Test Evidence Requirements:
 
